@@ -1,0 +1,9 @@
+com\gabriel\drawfx\DrawMode.class
+com\gabriel\drawfx\service\RendererService.class
+com\gabriel\drawfx\model\Shape.class
+com\gabriel\drawfx\service\AppService.class
+com\gabriel\drawfx\service\ScalerService.class
+com\gabriel\drawfx\service\ShapeService.class
+com\gabriel\drawfx\service\MoverService.class
+com\gabriel\drawfx\ShapeMode.class
+com\gabriel\drawfx\model\Drawing.class
